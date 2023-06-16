@@ -7,7 +7,7 @@ import Footer from "./footer";
 export function ProjectsPage() {
     window.scroll(0, 0);
     return (
-        <div className="container">
+        <div className="123">
             <Navbar />
             <Projects />
             <Footer />
