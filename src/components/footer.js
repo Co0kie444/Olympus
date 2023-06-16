@@ -16,22 +16,22 @@ const Footer = () => {
                         <div className="footer__title">Социальные сети</div>
                         <div className="footer__socials">
                             <div className="footer__social__item">
-                                <a href="#" target="_blank" className="footer__icon">
+                                <a href="https://web.telegram.org/a/" target="_blank" className="footer__icon">
                                 <FontAwesomeIcon icon={faTelegram} />
                                 </a>
                             </div>
                             <div className="footer__social__item">
-                                <a href="#" target="_blank" className="footer__icon">
+                                <a href="https://vk.com/" target="_blank" className="footer__icon">
                                 <FontAwesomeIcon icon={faVk} />
                                 </a>
                             </div>
                             <div className="footer__social__item">
-                                <a href="#" target="_blank" className="footer__icon">
+                                <a href="https://www.youtube.com/" target="_blank" className="footer__icon">
                                 <FontAwesomeIcon icon={faYoutube} />
                                 </a>
                             </div>
                             <div className="footer__social__item">
-                                <a href="#" target="_blank" className="footer__icon">
+                                <a href="https://twitter.com" target="_blank" className="footer__icon">
                                 <FontAwesomeIcon icon={faTwitter} />
                                 </a>
                             </div>

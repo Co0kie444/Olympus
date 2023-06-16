@@ -85,16 +85,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -112,16 +112,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -139,16 +139,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -167,16 +167,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -195,16 +195,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -223,16 +223,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -251,16 +251,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -279,16 +279,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
@@ -307,16 +307,16 @@ const AboutCompanyPage = () => {
                         </div>
                         <div className="card__text">
                             <div className="social">
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://web.telegram.org/a/" target="_blank">
                                 <FontAwesomeIcon icon={faTelegram} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://twitter.com" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://vk.com/" target="_blank">
                                 <FontAwesomeIcon icon={faVk} />
                             </a>
-                            <a className="social__item" href="/#" target="_blank">
+                            <a className="social__item" href="https://www.instagram.com" target="_blank">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             </div>
