@@ -68,7 +68,7 @@ export function Project_infoPage() {
                 <div className="container">
                     <div className="map">
                     <h2 className="map__title">
-                        <a href="https:/goo.gl/maps/F8YpeCGqwrG2" target="_blank">
+                        <a href="https://goo.gl/maps/F8YpeCGqwrG2" target="_blank">
                             <FontAwesomeIcon icon={faLocationDot} /> <br/>
                             Open map
                         </a>
