@@ -318,9 +318,7 @@ hr {
     color: #fff;
 }
 
-.btn hide {
-    display: none;
-}
+
 
 
 
@@ -692,15 +690,12 @@ hr {
         padding-bottom: 0;
     }
 
-
-    .section__image {
-        display: none;
+    .section__image img {
+        height: auto;
+        width: auto;
     }
 
-    .complex_des {
-        padding-right: 0;
-        text-align: center;
-    }
+
 
 }
 
@@ -725,6 +720,22 @@ hr {
     .instagram__item {
         width: auto;
         border-right: 1px solid white;
+    }
+
+    .complex_about {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section__image img {
+        margin-top: 40px;
+        height: 100%;
+        width: 100%;
+    }
+
+    .complex_des {
+        padding-right: 0;
+        text-align: center;
     }
 }
 
@@ -819,6 +830,13 @@ hr {
     .subscribe__input,
     .subscribe__btn {
         width: 100%;
+    }
+
+    .docs {
+        margin-left: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
 }
