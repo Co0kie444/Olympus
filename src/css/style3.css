@@ -16,7 +16,15 @@ body {
 	z-index: 4444;
 }
 
-.image-page-item {
-    width: auto;
-    height: 100%;
+.image-page img {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 770px) {
+    .image-page img {
+        transform: rotate(90deg);
+        width: auto;
+        height: 45%;
+    }
 }
