@@ -18,7 +18,7 @@ body {
 
 .image-page img {
     width: auto;
-    height: auto;
+    height: 100%;
 }
 
 @media (max-width: 770px) {
